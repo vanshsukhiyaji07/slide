@@ -16,7 +16,8 @@ This project is a simple image slider built using HTML, CSS, and JavaScript. It 
 
 ## Screenshot
 
-![Slider Screenshot](./path_to_your_image/Screenshot_2024-10-04_103618.png)
+![Screenshot 2024-10-04 103618](https://github.com/user-attachments/assets/3d4a5a54-cade-4911-8d86-7c54c4ed2f3b)
+
 
 ## Installation
 
