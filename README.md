@@ -32,8 +32,3 @@ This project is a simple image slider built using HTML, CSS, and JavaScript. It 
 - Use the left and right arrows to navigate through the images.
 - Click on the dots below to jump to a specific image.
 
-## License
-
-This project is open-source and available under the [MIT License](./LICENSE).
-
-You'll need to place the screenshot in the appropriate path in your repository and update the path in the README accordingly.
